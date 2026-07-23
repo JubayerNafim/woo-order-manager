@@ -1,13 +1,13 @@
 <?php
 /**
- * Plugin Name:         Easy Order Manager
+ * Plugin Name:         Woo Order Manager
  * Plugin URI:          https://easyordermanager.com.bd/
  * Description:         🇧🇩 Ultimate WooCommerce order management plugin for Bangladesh. All-in-one dashboard, inline editing, bulk actions, courier integrations (Pathao, Steadfast, RedX, CarryBee, eCourier, Sundarban, Paperfly), fraud protection, invoicing, profit/loss, inventory, team management, and more.
  * Version:             1.0.1
  * Requires at least:   6.0
  * Requires PHP:        7.4
- * Author:              Easy Order Manager Team
- * Author URI:          https://easyordermanager.com.bd/
+ * Author:              Jubayer Nafim
+ * Author URI:          https://github.com/JubayerNafim/
  * License:             GPL v2 or later
  * License URI:         https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:         easy-order-manager
@@ -15,7 +15,7 @@
  * WC requires at least: 5.0
  * WC tested up to:     8.5
  *
- * @package             EasyOrderManager
+ * @package             WooOrderManager
  */
 
 defined( 'ABSPATH' ) || exit;
