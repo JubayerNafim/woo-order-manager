@@ -12,7 +12,7 @@ The ultimate WooCommerce order management plugin for Bangladesh — manage, trac
 
 == Description ==
 
-Easy Order Manager is a comprehensive WooCommerce order management plugin designed specifically for Bangladesh e-commerce businesses. It transforms the default WooCommerce order interface into a powerful, Google-Sheets-like dashboard with inline editing, bulk actions, advanced filtering, courier integrations, invoicing, profit tracking, inventory management, team collaboration, and more.
+Woo Order Manager is a comprehensive WooCommerce order management plugin designed specifically for Bangladesh e-commerce businesses. It transforms the default WooCommerce order interface into a powerful, Google-Sheets-like dashboard with inline editing, bulk actions, advanced filtering, courier integrations, invoicing, profit tracking, inventory management, team collaboration, and more.
 
 **🇧🇩 Built for Bangladesh — 7+ Courier Integrations**
 Pathao, Steadfast, RedX, CarryBee, eCourier, Sundarban, Paperfly — all integrated with one-click bulk booking.
@@ -135,7 +135,7 @@ Declared via `FeaturesUtil::declare_compatibility`.
 
 == Installation ==
 
-1. Upload the `easy-order-manager` folder to the `/wp-content/plugins/` directory
+1. Upload the `woo-order-manager` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to **EOM Orders** in the WordPress admin to access the dashboard
 4. Configure courier API credentials under **EOM Orders → Courier Settings**
